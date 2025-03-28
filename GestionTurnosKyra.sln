@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionTurnosKyra.Data", "GestionTurnosKyra.Data\GestionTurnosKyra.Data.csproj", "{4EEDFB15-E1D7-49D1-A60D-80903F314AF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionTurnosKyra.EntityFramework", "GestionTurnosKyra.EntityFramework\GestionTurnosKyra.EntityFramework.csproj", "{F2AEACEF-3890-45E2-90EB-016AD17BB509}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionTurnosKyra.WPF", "GestionTurnosKyra.WPF\GestionTurnosKyra.WPF.csproj", "{78F2FBFE-4917-4FD2-A3A7-8C15AC1E8580}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EEDFB15-E1D7-49D1-A60D-80903F314AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EEDFB15-E1D7-49D1-A60D-80903F314AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EEDFB15-E1D7-49D1-A60D-80903F314AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EEDFB15-E1D7-49D1-A60D-80903F314AF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2AEACEF-3890-45E2-90EB-016AD17BB509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2AEACEF-3890-45E2-90EB-016AD17BB509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2AEACEF-3890-45E2-90EB-016AD17BB509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2AEACEF-3890-45E2-90EB-016AD17BB509}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78F2FBFE-4917-4FD2-A3A7-8C15AC1E8580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F2FBFE-4917-4FD2-A3A7-8C15AC1E8580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78F2FBFE-4917-4FD2-A3A7-8C15AC1E8580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78F2FBFE-4917-4FD2-A3A7-8C15AC1E8580}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23FEE683-5C73-44A3-A083-EF0014696201}
+	EndGlobalSection
+EndGlobal
